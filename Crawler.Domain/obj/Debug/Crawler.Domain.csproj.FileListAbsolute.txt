@@ -1,0 +1,5 @@
+D:\OwnOpenSourceProject\Crawler\Crawler.Domain\bin\Debug\Crawler.Domain.dll
+D:\OwnOpenSourceProject\Crawler\Crawler.Domain\bin\Debug\Crawler.Domain.pdb
+D:\OwnOpenSourceProject\Crawler\Crawler.Domain\obj\Debug\Crawler.Domain.csprojResolveAssemblyReference.cache
+D:\OwnOpenSourceProject\Crawler\Crawler.Domain\obj\Debug\Crawler.Domain.dll
+D:\OwnOpenSourceProject\Crawler\Crawler.Domain\obj\Debug\Crawler.Domain.pdb
